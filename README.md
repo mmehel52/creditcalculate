@@ -1,7 +1,7 @@
 # creditcalculate
 ## Overview
 
-👨‍💻 In this project I mastered Bootstrap 5 skills. I used mainly HTML and Bootstrap. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
+👨‍💻 In this project I mastered Javascript DOM skills. I used mainly JS-DOM and Bootstrap. You can see visual demo of the website below. The objective is to build out credit calculate webpage and make it looking as professional as possible..
 
  [👍click here to see page](https://mmehel52.github.io/creditcalculate/)
  
