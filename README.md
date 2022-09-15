@@ -22,7 +22,7 @@
 ### The project cover;
 
 - HTML / Semantic elements
-- CSS Basics * Bootstrap / Form - Tables
+-  Bootstrap / Form - Tables
  -Javascript DOM
 ### At the end of the project,i will be able to;
 - improve coding skills within HTML & JS & Bootstrap-5
@@ -35,7 +35,7 @@
 ##  How to Use the Project
 * First download a code editor
 
-* You can use this tutorial : [VS Code tutorial](https://www.youtube.com/watch?v=fJEbVCrEMSE)
+* You can use this tutorial : [Bootstrap](https://getbootstrap.com/)
 
 ## Author
 👤 Mustafa MEHEL
