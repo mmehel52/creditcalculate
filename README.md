@@ -11,7 +11,7 @@
 
 ## Project Skeleton
 
-<img src="https://github.com/mmehel52/bootstrapproject2/blob/main/img/11.png" width="900"/>
+<img src="https://github.com/mmehel52/creditcalculate/blob/main/Screenshot_1.png" width="900"/>
 
       
 ## Purpose of Project;
